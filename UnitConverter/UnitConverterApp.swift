@@ -2,9 +2,6 @@
 //  UnitConverterApp.swift
 //  UnitConverter
 //
-//  Created by RachelleLee on 7/13/21.
-//
-
 import SwiftUI
 
 @main
